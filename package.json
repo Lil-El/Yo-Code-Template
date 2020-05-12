@@ -1,5 +1,5 @@
 {
-  "name": "yo-code-template",
+  "name": "<%= appName %>",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
